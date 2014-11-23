@@ -1,0 +1,52 @@
+Ada Lovelace,F,96,ISTJ,Linux,24,99,MF
+Adele Goldberg,F,65,ENFJ,Windows,50,70,MF
+Alan Turing,M,41,ESTP,Mac OS X,31,50,M
+Anakin Skywalker,M,27,INTJ,Linux,15,30,MF
+Angry Video Game Nerd,M,29,ISTJ,Mac OS X,1,99,MF
+Anita Borg,F,54,ISFP,Windows,41,55,M
+Barbara Liskov,F,71,ESFJ,Mac OS X,41,76,M
+Bill Gates,M,52,INTJ,Windows,2,99,F
+Bill Joy,M,54,ENFP,Linux,50,70,MF
+Bjarne Stroustroup,M,59,INFJ,Windows,40,62,MF
+Borg,M,88,ISTJ,Mac OS X,88,88,M
+Buffy Summers,F,27,INTP,Windows,18,49,MF
+Charles Babbage,M,79,ESFP,Linux,30,82,F
+Dana Scully,F,41,ISTJ,Mac OS X,36,54,MF
+Deanna Troi,F,53,ENFJ,Mac OS X,32,48,MF
+Donald Knuth,M,70,INTJ,Linux,12,17,MF
+Edsger Dijkstra,M,72,ISTP,Linux,16,58,F
+Ellen Ripley,F,35,ESFJ,Linux,20,40,F
+Frances Allen,F,78,ESTP,Linux,67,78,M
+Gordon Moore,M,81,ENFP,Windows,60,99,MF
+Grace Hopper,F,87,ISFP,Windows,47,80,M
+Jadzia Dax,F,46,ENFJ,Mac OS X,18,32,MF
+James Gosling,M,55,ESFJ,Linux,18,40,F
+Jeannette Wing,F,38,INTP,Mac OS X,45,60,M
+Kathryn Janeway,F,49,ESTJ,Windows,30,55,F
+Lara Croft,F,23,ENTP,Linux,18,30,MF
+Leeloo,F,19,ISTJ,Linux,1,99,MF
+Leia Organa,F,53,ISFJ,Windows,20,60,MF
+Lenore Blum,F,70,INTP,Mac OS X,66,99,M
+Marissa Mayer,F,35,ENTP,Linux,20,40,M
+Mary Lou Jepsen,F,45,ISTJ,Windows,10,80,MF
+Ms Frizzle,F,39,ENTP,Mac OS X,19,49,MF
+Natalie Portman,F,26,INFJ,Mac OS X,20,39,M
+Niklaus Wirth,M,76,ENFJ,Windows,50,77,MF
+Nostalgia Critic,M,28,ENTJ,Linux,12,79,MF
+Nyota Uhura,F,77,ENFP,Mac OS X,70,99,M
+Oldspice Guy,M,36,ENTJ,Windows,1,99,F
+Rasmus Lerdorf,M,41,ENTP,Linux,15,35,MF
+Richard Stallman,M,57,ISFJ,Linux,46,56,MF
+River Tam,F,26,ENTJ,Linux,18,25,F
+Roberta Williams,F,57,ENFP,Windows,54,67,M
+Rosie O Donnell,F,46,ENFJ,Windows,30,50,F
+Sarah Connor,F,53,ISFP,Windows,49,67,M
+Seven of Nine,F,40,ISTJ,Windows,12,50,MF
+Stewie Griffin,M,1,INTP,Mac OS X,1,59,M
+Tpol,F,35,ISTJ,Windows,30,39,M
+Trinity,F,42,ESFP,Linux,35,55,M
+Tyler Durden,M,46,ENFP,Mac OS X,20,39,MF
+Valentina Tereshkova,F,71,ENTJ,Mac OS X,55,65,M
+Vint Cerf,M,67,ISFP,Mac OS X,28,55,MF
+Yukihiro Matsumoto,M,45,ENTP,Mac OS X,10,25,MF
+Zelda,F,59,ESTP,Windows,40,62,M
