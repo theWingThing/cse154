@@ -1,0 +1,27 @@
+body {
+	font-family: "cursive";
+	font-size: 14pt;
+	text-align: center;
+}
+
+#puzzlearea {
+	height: 400px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+.tile {
+	border: 5px solid black;
+	height: 90px;
+	width: 90px;
+	position: absolute;
+}
+
+div > p {
+}
+
+.tile {
+	font-size: 40pt;
+}
