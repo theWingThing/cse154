@@ -35,7 +35,8 @@
 		</div>
 
 		<!-- Favorite Artists (Arrays) -->
-        <?php $fav_artists = array("Britney Spears", "Christina Aguilera", "Justin Bieber", "Lady Gaga"); ?>
+        <!--?php $fav_artists = array("Britney Spears", "Christina Aguilera", "Justin Bieber", "Lady Gaga"); ?-->
+		<?php $fav_artists = file("favorite.txt"); ?>
 		<!-- Favorite Artists from a File (Files) -->
 		<div class="section">
 			<h2>My Favorite Artists</h2>
@@ -43,7 +44,7 @@
 			<ol>
                 <?php
                 foreach($fav_artists as $artist) { ?>
-                <li><?=$artist?></li>
+                <li><a href="https://www.vevo.com/artist/<?= implode("-", explode(" ", $artist)); ?>"><?=$artist?></a></li>
                 <?php } ?>
 			</ol>
 		</div>
@@ -53,18 +54,13 @@
 		<div class="section">
 			<h2>My Music and Playlists</h2>
 
+			<?php $music = array("Be More.mp3", "Just Because.mp3", "Drift Away.mp3"); ?>
 			<ul id="musiclist">
-				<li class="mp3item">
-					<a href="http://webster.cs.washington.edu/cse154/songs/Be More.mp3">Be More.mp3</a>
-				</li>
-				
-				<li class="mp3item">
-					<a href="http://webster.cs.washington.edu/cse154/songs/Just Because.mp3">Just Because.mp3</a>
-				</li>
-
-				<li class="mp3item">
-					<a href="http://webster.cs.washington.edu/cse154/songs/Drift Away.mp3">Drift Away.mp3</a>
-				</li>
+				<?php foreach($music as $song) { ?>
+					<li class="mp3item">
+						<a href="http://webster.cs.washington.edu/cse154/songs/<?= $song ?>"><?= $song ?></a> (<?= filesize("http://webster.cs.washington.edu/cse154/songs/<?= $song ?>") ?>)
+					</li>
+				<?php } ?>
 
 				<!-- Exercise 8: Playlists (Files) -->
 				<li class="playlistitem">154-mix.m3u:
